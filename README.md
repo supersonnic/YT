@@ -1,2 +1,3 @@
-# This repository contains code from youtube cideos
-## Linked List Reversal: https://youtu.be/lz3ONq1SOlw
+# Youtube
+## This repo contais code from Youtube Videos
+### Linked List Reversal: https://youtu.be/lz3ONq1SOlw
